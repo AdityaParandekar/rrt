@@ -15,5 +15,13 @@
   The user needs to input the x and y goal points and a path is plotted using matplotlib.
   The final path is also printed on the terminal from starting position to the goal point.
   
+
+
+![Figure_1](https://user-images.githubusercontent.com/84431866/167314912-c88a9bcc-f9ef-4602-a2ce-c741b1a115df.png)
+here the goal was (10,10)
+
+  Thanks a lot for your valuable time!!
+
+
   
   
