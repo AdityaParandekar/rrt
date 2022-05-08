@@ -19,7 +19,9 @@
 
 
 ![Figure_1](https://user-images.githubusercontent.com/84431866/167314912-c88a9bcc-f9ef-4602-a2ce-c741b1a115df.png)
-here the goal was (10,10)
+
+
+  here the goal was (10,10)
 
   Thanks a lot for your valuable time!!
 
